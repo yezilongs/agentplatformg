@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"ios_version":"130","ios_url":"https:\/\/app.qicai2018.com\/ios_update","applePlist_url":"https:\/\/gitee.com\/ieukf9090\/qcshop\/raw\/master\/ios.plist","other":",0,aHR0cHM6Ly9hcHAuN2NhaWhvbWUuY29tLGh0dHBzOi8vYXBwLmltYXlpamlud28uY29tLGh0dHBzOi8vYXBwLmk3Y2FpLm5ldDo5OTk5LGh0dHBzOi8vYXBwLmk3Y2FpLnZpcDo5OTk5","thirdLoginEnable":"0"}]}}
