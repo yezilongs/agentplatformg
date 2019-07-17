@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"android_version":"411","android_url":"http://app.jinhealthcare.org/haiyun_411.apk","other":",0,aHR0cHM6Ly9hcHAuaGFpeXVuMjguY29tLGh0dHBzOi8va3dhcHAuaGFpeXVuMjguY29t","thirdLoginEnable":"0"}]}}
