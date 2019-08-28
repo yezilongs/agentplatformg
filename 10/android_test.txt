@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"android_version":"411","android_url":"http://app.wangfengxl.top/channel_10/app/xl_411.apk","other":",0,aHR0cHM6Ly9hcHBjZG4ueGx5bDI4LmNvbTo5OTY4LGh0dHBzOi8vYXBwaGsueGx5bDI4LmNvbTo5OTY4LGh0dHBzOi8vYXBwLnhsZ2oyOC5jb206OTk2OCxodHRwczovL2FwcGpwLnhseWwyOC5jb206OTk2OA==,0","thirdLoginEnable":"0"}]}}
