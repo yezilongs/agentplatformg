@@ -1,1 +1,0 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"411","android_url":"http://app.amuligw.com/channel_25/app/jm_411.apk","other":",0,aHR0cDovL2FwcC5qaW5tYXRlc3QuY29tOjk5NjgsaHR0cDovL2FwcC5qaW5tYXRlc3QuY29tOjk5NjgsaHR0cDovL2FwcC5qaW5tYXRlc3QuY29tOjk5NjgsaHR0cDovL2FwcC5qaW5tYXRlc3QuY29tOjk5Njg=,0","thirdLoginEnable":"0"}]}}
