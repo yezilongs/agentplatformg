@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"android_version":"100","android_url":"http://app.amuligw.com/channel_102/app/yl_100.apk","other":",0,aHR0cHM6Ly9hcHBsaS55aWwyOC5jb206OTk2MixodHRwczovL2FwcGZzLnlpbDI4LmNvbTo5OTYyLGh0dHBzOi8vYXBwd2QueWlsMjguY29tOjk5NjIsaHR0cHM6Ly9hcHBkcy55aWwyOC5jb206OTk2Mg==,0","thirdLoginEnable":"0"}]}}

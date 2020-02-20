@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"android_version":"100","android_url":"http://app.amuligw.com/channel_103/app/jp_100.apk","other":",0,aHR0cHM6Ly9hcHBsaS5qaW5ncGlucGMyOC5jb206OTk2MyxodHRwczovL2FwcGZzLmppbmdwaW5wYzI4LmNvbTo5OTYzLGh0dHBzOi8vYXBwd2QuamluZ3BpbnBjMjguY29tOjk5NjMsaHR0cHM6Ly9hcHBkcy5qaW5ncGlucGMyOC5jb206OTk2Mw==,0","thirdLoginEnable":"0"}]}}

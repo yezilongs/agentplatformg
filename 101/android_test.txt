@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"android_version":"100","android_url":"http://app.amuligw.com/channel_101/app/hm_100.apk","other":",0,aHR0cHM6Ly9hcHBsaS4yOGh1YW1laS5jb206OTk2MSxodHRwczovL2FwcGZzLjI4aHVhbWVpLmNvbTo5OTYxLGh0dHBzOi8vYXBwd2QuMjhodWFtZWkuY29tOjk5NjEsaHR0cHM6Ly9hcHBkcy4yOGh1YW1laS5jb206OTk2MQ==,0","thirdLoginEnable":"0"}]}}
