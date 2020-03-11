@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"ios_version":"100","ios_url":"http:\/\/app.wxdltest.com\/ios_update","applePlist_url":"https:\/\/raw.githubusercontent.com\/yezilongs\/agentplatformg\/master\/200\/ios.plist","other":",1,aHR0cDovL2FwcC53eGRsdGVzdC5jb206MzAx,1,","thirdLoginEnable":"0"}]}}
