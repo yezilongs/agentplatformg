@@ -1,0 +1,20 @@
+[
+    { 
+    	"line_name": "线路一",
+    	"api": "http://58.82.200.5:81/api",
+		"websocket_home": "ws://58.82.200.5:9808",
+		"websocket_fruit": "ws://58.82.200.5:3001",
+		"websocket_animal": "ws://58.82.200.5:3001",
+		"websocket_boom": "ws://58.82.200.5:9808",
+		"websocket_niuniu": "ws://58.82.200.5:7001"
+	},
+	{ 
+    	"line_name": "线路二",
+    	"api": "http://58.82.200.5:81/api",
+		"websocket_home": "ws://58.82.200.5:9808",
+		"websocket_fruit": "ws://58.82.200.5:3001",
+		"websocket_animal": "ws://58.82.200.5:3001",
+		"websocket_boom": "ws://58.82.200.5:9808",
+		"websocket_niuniu": "ws://58.82.200.5:7001"
+	}
+]
